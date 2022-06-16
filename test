@@ -3,6 +3,13 @@ Welcome to git
 
 This is my first commit
 
+commands for git
+git init
+git add .
+git status
+git commit -m 'message'
+git push origin master 
+
 
 End
 
